@@ -40,7 +40,6 @@ let weather = {
     },
   };
   
-  /* Fetching Data from OpenCageData Geocoder */
   let geocode = {
     reverseGeocode: function (latitude, longitude) {
       var apikey = "90a096f90b3e4715b6f2e536d934c5af";
